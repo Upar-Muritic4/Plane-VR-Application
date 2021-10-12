@@ -1,0 +1,17 @@
+Library/
+Logs/
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+Assets/Oculus/
+Assets/Oculus.meta
+InitCodeMarker
+*.apk
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.swp
+*.csproj
+.DS_store
